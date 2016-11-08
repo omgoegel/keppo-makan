@@ -200,6 +200,7 @@ header .menu ul>li img{display:block;max-width:100%!important;cursor:pointer;}
 
 /* LOGIN */
 #login{background:#f60;width:100vw;height:100vh;text-align:center;padding:18vh 10vw;color:#fff;}
+#login img.text-center{width:150px;height:auto;}
 #login table,#login .table>tbody>tr>td{border:0;line-height:1em;padding:4px;vertical-align:middle;}
 #login .table,#login .table-responsive{margin-bottom:0;}
 #login .table>tbody>tr>td.text-right{width:20%;text-align:left;font-size:1.2rem;letter-spacing:1px;}
