@@ -1,0 +1,202 @@
+Manifest-Version: 1.0
+Built-By: 2.1.0
+Created-By: Android Gradle 2.1.0
+
+Name: assets/www/assets/img/logo-potrait.png
+SHA1-Digest: h4FqVgptFBTysupVpLaoyDD9dUk=
+
+Name: assets/www/assets/js/swiper.js
+SHA1-Digest: Loj4hrbk1DntyhTvfPx/pVTPUcY=
+
+Name: assets/www/assets/img/icon/icon-logout.png
+SHA1-Digest: seW8OKwOeguEWwXyBqb+CN9nA+Q=
+
+Name: assets/www/restoran/history.html
+SHA1-Digest: mTAgssLoXOkEMdKYnhiKML7NCYk=
+
+Name: assets/www/cordova.js
+SHA1-Digest: Czdu5ucpNMb1t/K0hBxT4PTLDWo=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 0c41TmMPjF7lhKPDpffWYQgh7sE=
+
+Name: assets/www/recent.html
+SHA1-Digest: SUxirJkl+IRKbphP5w957a+4lLQ=
+
+Name: assets/www/referensi.html
+SHA1-Digest: n/pjYBfCOiKXEzrIDu7KYf6JMF4=
+
+Name: assets/www/assets/img/slide3.jpg
+SHA1-Digest: SUv1jm3mYEAU9i5QZrHzFXiyxJY=
+
+Name: assets/www/restoran/single.html
+SHA1-Digest: WAhB0ZUAqg55opaZWoTSdyaX75I=
+
+Name: assets/www/assets/css/stylesheet.css
+SHA1-Digest: FN27zk9hxrzA0Lu45KPHluP+umU=
+
+Name: assets/www/assets/img/icon/icon-thumb-active.png
+SHA1-Digest: 1gl0MNsjOX87p+7eqFBQO7+VYOA=
+
+Name: assets/www/assets/img/slide4.jpg
+SHA1-Digest: HkjxF2qwOWP70ApXUCZZBpaut3k=
+
+Name: assets/www/index.html
+SHA1-Digest: dl7ChrLKEwp+zndgEMd2Oag3aIE=
+
+Name: assets/www/single.html
+SHA1-Digest: f5bXzoXlm0y201JGO6OgZABo8Y8=
+
+Name: assets/www/assets/img/icon/icon-love-grey.png
+SHA1-Digest: Fl7EWwhnVf3yWz/gezFAb+Eo3Lc=
+
+Name: assets/www/assets/js/main.js
+SHA1-Digest: Ua3xcbUNMaZKHjYkXqFU+CFlLOs=
+
+Name: assets/www/assets/img/slide1.jpg
+SHA1-Digest: lyUYYXmdHyWHeQVMWz8Sa7zDY3o=
+
+Name: assets/www/assets/js/swiper.min.js
+SHA1-Digest: wZsZmI7vPXZ9LdWaEuWGA8VrAxI=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: bHcUENu53fcAzl9/cqJyhCXNRh0=
+
+Name: assets/www/assets/img/icon/icon-history-active.png
+SHA1-Digest: u3NwkglNJhltDYGrbfK2hcqvfBQ=
+
+Name: assets/www/assets/img/slide2.jpg
+SHA1-Digest: NRnC3OhIsm79O9qiu2/V5hlFl8o=
+
+Name: assets/www/assets/js/swiper.jquery.min.js
+SHA1-Digest: g2lBa5ko2ZlfBFwwsyHZxsmuNpw=
+
+Name: assets/www/forgot.html
+SHA1-Digest: 5qL1aSiO6AFEU0nHcQ93BrTGUKg=
+
+Name: assets/www/assets/js/swiper.jquery.umd.min.js
+SHA1-Digest: lsygeSBd35urZruShIqgWAo7ksE=
+
+Name: resources.arsc
+SHA1-Digest: Ry7UMaM4FZAwOoN0cwE/3q7ztQE=
+
+Name: assets/www/restoran/index.html
+SHA1-Digest: UA+RZa8RENN/mlMVblm0gMENsX4=
+
+Name: assets/www/assets/js/npm.js
+SHA1-Digest: 4rdZDW7B/axmsB/fZq4IefU7EmI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZH4V9sUd4qVboXH5NlcFY4VyH3Q=
+
+Name: assets/www/assets/img/icon/icon-profile.png
+SHA1-Digest: JgM4c72hUG98h3J+bvJhc+NgC3g=
+
+Name: assets/www/assets/img/icon/icon-recent.png
+SHA1-Digest: DNEPAUPG0nsBpr51yXsc08gzncc=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: Czdu5ucpNMb1t/K0hBxT4PTLDWo=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: W7MEUoHa/jQ3iSBhdSFooBkBQ08=
+
+Name: assets/www/assets/css/swiper.min.css
+SHA1-Digest: HYAvhCNRx8K1NYVkHksogFCEU1I=
+
+Name: assets/www/assets/img/icon/icon-history.png
+SHA1-Digest: KFEFaNLV6pyaVSab53dXQZYiV2U=
+
+Name: res/xml/config.xml
+SHA1-Digest: 7gq0a2qqz2yCwWBWqsQ0R5zcx54=
+
+Name: assets/www/home.html
+SHA1-Digest: C/qSjvKjT6c25AU0yqW2zvF2kLU=
+
+Name: assets/www/register.html
+SHA1-Digest: HPckh2kte8PLrVXQIgsube9Q46c=
+
+Name: assets/www/assets/img/slide.jpg
+SHA1-Digest: 7HJEx82SRt9TmmG//c6sIz+XJx8=
+
+Name: assets/www/assets/js/jquery-1.12.4.min.js
+SHA1-Digest: Wp3PvvZVomaOeLrr6qjcb0HY2rs=
+
+Name: assets/www/assets/img/icon/icon-recent-active.png
+SHA1-Digest: iCc0uQ2y5mXeLvkFKlXtuw2iZhI=
+
+Name: assets/www/profile.html
+SHA1-Digest: Z2YMpo/Io2rk/HozlcmF99cm14c=
+
+Name: assets/www/assets/img/icon/icon-news.png
+SHA1-Digest: OJXAbIUJSUGkLQzXopqILbOKIAc=
+
+Name: assets/www/blog.html
+SHA1-Digest: rTAQiDrfahJvPDN/f3ArSEWtbVA=
+
+Name: assets/www/assets/js/swiper.jquery.umd.js
+SHA1-Digest: caRVdpd1fhXyMyTe5304qFRtbKY=
+
+Name: assets/www/restoran/profile.html
+SHA1-Digest: b7ch23hGkQzYoC0D/cj3lfDL64A=
+
+Name: assets/www/LICENSE
+SHA1-Digest: EtgfUHZ9TgmqeHfaB3rZ0bkV11s=
+
+Name: assets/www/assets/img/icon/icon-home-active.png
+SHA1-Digest: AZMTWzgVhN9yd/Kwhz0DxqN/+qc=
+
+Name: assets/www/assets/img/slide5.jpg
+SHA1-Digest: MNv8QRiLj/qsA1YbkTEXl66z7N0=
+
+Name: assets/www/assets/img/icon/icon-profile-active.png
+SHA1-Digest: EknQKQmMqsdC8WogZlphwzulecs=
+
+Name: assets/www/history.html
+SHA1-Digest: 2LXdBpY7/3S0yN7e7nk8UrwfKZs=
+
+Name: assets/www/assets/css/swiper.css
+SHA1-Digest: P9sY5kZmOmzwyCinveNNtgfnxMI=
+
+Name: assets/www/assets/img/icon/icon-news-active.png
+SHA1-Digest: s5tEai1ULEXm55Aod9uFHlphtn8=
+
+Name: assets/www/assets/img/icon/icon-camera.png
+SHA1-Digest: Ez+WqZ9hmW2STYkuN4OzRlPS4XM=
+
+Name: assets/www/assets/js/bootstrap.min.js
+SHA1-Digest: QwpEPXSDD+m+Ju/KQx9EjBs3QPk=
+
+Name: assets/www/assets/img/icon/icon-home.png
+SHA1-Digest: dGhoS6pA0+UYLLjJ5jDEcrsCb3k=
+
+Name: assets/www/assets/img/icon/icon-logout-active.png
+SHA1-Digest: OvFrAvJZ9YNus++W4eJU9zJCVlw=
+
+Name: assets/www/assets/js/swiper.jquery.js
+SHA1-Digest: NSpAcpma20+qHMkkagyIyv+jIkE=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 43pi/Wiqe8LPIpnf0hFXv8FOTKg=
+
+Name: assets/www/assets/css/bootstrap.min.css
+SHA1-Digest: ZSfYvz4ek2i6uMe2D1a8Afo6/Wg=
+
+Name: assets/www/assets/css/bootstrap.min.css.map
+SHA1-Digest: 4NeyveVaC6wbZYpQfoykkaZyngY=
+
+Name: assets/www/assets/img/icon/icon-share.png
+SHA1-Digest: q8pRHngKY2RADNxX1P0g1PiMCQk=
+
+Name: classes.dex
+SHA1-Digest: Su3u2cN2E3WY25Ip2V7zlX6E2oU=
+
+Name: assets/www/assets/img/icon/icon-thumb.png
+SHA1-Digest: FSgfgb6jPfZ26EGPq3aRMBM8XXE=
+
+Name: assets/www/assets/img/icon/icon-love.png
+SHA1-Digest: gLoZXr95may2ujSq4OBlDYOodhM=
+
+Name: assets/www/assets/img/logo-landscape.png
+SHA1-Digest: TsqleDj/CFE/Mh07bmHqaydtAgQ=
+
